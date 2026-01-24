@@ -1,0 +1,20 @@
+OPEN_AI_PLATFORM_TYPE = "openai"
+TOGETHER_AI_PLATFORM_TYPE = "togetherai"
+OPENROUTER_PLATFORM_TYPE = "open_router"
+
+SIMILARITY_METHOD = "similarity"
+ITERATIVE_SIMILARITY_METHOD = "iterative_similarity"
+ONE_SHOT_PROMPTING = "one_shot_prompting"
+ITERATIVE_PROMPTING_SENTENCE = "iterative_prompting_sentence"
+NLI_BASED_RANKING = "nli_based_ranking"
+ITERATIVE_NLI_BASED_RANKING = "iterative_nli_based_ranking"
+ONE_SHOT_REASON_RANK_MODEL = "one_shot_reason_rank_model"
+LAQUER_SELECTION = "laquer_selection"
+
+SELECTED_SNIPPETS = "selected snippets"
+
+CANDIDATE_SNIPPETS = "candidate snippets"
+NUM_SELECTED_SNIPPETS = "num selected snippets"
+GOLD_SNIPPETS_GROUPS = "gold snippets groups"
+GOLD = "gold"
+LABEL = "label"
